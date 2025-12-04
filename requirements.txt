@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pytest
+requests
+python-dotenv
+redis
+fakeredis
+aiofiles
+jinja2
